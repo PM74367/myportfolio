@@ -1,32 +1,34 @@
 {
     "name": "Puneet",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "title": "Web development,Programming",
+    "intro": "Some introduction and skills",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "C",
+            "rating": "80"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "C++",
+            "rating": "80"
         },
         {
-            "title": "Skill 3",
-            "rating": "85"
+            "title": "Java",
+            "rating": "70"
         },{
-            "title": "Skill 4",
+            "title": "React",
             "rating": "80"
         },{
-            "title": "Skill 5",
-            "rating": "78"
+            "title": "Node",
+            "rating": "70"
         },{
-            "title": "Skill 6",
-            "rating": "90"
+            "title": "Express",
+            "rating": "70"
+        },{
+            "title": "MongoDB",
+            "rating": "70"
         }
     ],
     "contact": {
         "location": "Chitkara University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "email": "puneet171612.cse@chitkara.edu.in"
     }
 }
